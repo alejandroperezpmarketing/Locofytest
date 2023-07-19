@@ -1,0 +1,138 @@
+.aniamacin-intro-child,
+.aniamacin-intro-inner,
+.aniamacin-intro-item {
+  position: absolute;
+  top: 39px;
+  left: 478px;
+  border-radius: 50%;
+  background-color: var(--color-silver);
+  width: 8px;
+  height: 8px;
+}
+.aniamacin-intro-inner,
+.aniamacin-intro-item {
+  top: 504px;
+  left: 582px;
+  width: 0;
+  height: 0;
+}
+.aniamacin-intro-inner {
+  top: 503.5px;
+  left: 574px;
+}
+.intro-icon,
+.vector-icon {
+  position: absolute;
+  top: 549.5px;
+  left: 300.41px;
+  width: 375.71px;
+  height: 815.5px;
+}
+.intro-icon {
+  top: 0;
+  left: 415px;
+  width: 134.35px;
+  height: 77.56px;
+  mix-blend-mode: normal;
+}
+.aniamacin-intro-child1 {
+  position: absolute;
+  top: 66.5px;
+  left: 480.5px;
+  width: 0;
+  height: 153.5px;
+}
+.intro-icon1,
+.intro-icon2 {
+  position: absolute;
+  top: 220px;
+  left: 458px;
+  width: 48px;
+  height: 48px;
+}
+.intro-icon2 {
+  top: 1341px;
+  left: 430px;
+}
+.aniamacin-intro-child2 {
+  position: absolute;
+  top: 268px;
+  left: 480.5px;
+  width: 0;
+  height: 204.5px;
+}
+.ni-se-destruye,
+.no-se-crea,
+.solo-se-transforma {
+  position: absolute;
+  top: 930px;
+  left: 419px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 354px;
+  height: 65px;
+  mix-blend-mode: normal;
+}
+.no-se-crea,
+.solo-se-transforma {
+  top: 1164px;
+  left: 0;
+  width: 300px;
+  height: 53px;
+}
+.no-se-crea {
+  top: 696px;
+  left: 197px;
+  width: 368px;
+  height: 65px;
+}
+.vectary-texture-icon,
+.vectary-texture-icon1 {
+  position: absolute;
+  top: 109px;
+  left: 464px;
+  width: 33px;
+  height: 42px;
+  object-fit: cover;
+}
+.vectary-texture-icon1 {
+  top: 406px;
+  left: 421px;
+  width: 169px;
+  height: 216px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 482px;
+  left: 362px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 68px;
+  height: 68px;
+}
+.div1 {
+  left: 566px;
+}
+.sin-ttulo-1-1-icon {
+  position: absolute;
+  top: 28px;
+  left: 468px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.aniamacin-intro {
+  position: relative;
+  width: 100%;
+  height: 1389px;
+  display: none;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
